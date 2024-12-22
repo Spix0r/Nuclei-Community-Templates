@@ -14,7 +14,8 @@
 - [rafaelwdornelas/my-nuclei-templates](https://github.com/rafaelwdornelas/my-nuclei-templates)  
 - [cipher387/juicyinfo-nuclei-templates](https://github.com/cipher387/juicyinfo-nuclei-templates)  
 - [pikpikcu/nuclei-templates](https://github.com/pikpikcu/nuclei-templates)  
-- [UltimateSec/ultimaste-nuclei-templates](https://github.com/UltimateSec/ultimaste-nuclei-templates)  
+- [UltimateSec/ultimaste-nuclei-templates](https://github.com/UltimateSec/ultimaste-nuclei-templates)
+- [olialkibriakonok/Nuclei-templates](https://github.com/olialkibriakonok/Nuclei-templates)
 
 ---
 
