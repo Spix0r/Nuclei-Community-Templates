@@ -1,6 +1,7 @@
 # Nuclei Community Templates
 
 ### **General Nuclei Templates**
+- [Nuclei-templates-Collection](https://github.com/damon-sec/Nuclei-templates-Collection)
 - [ayadim/Nuclei-bug-hunter](https://github.com/ayadim/Nuclei-bug-hunter)  
 - [NoRed0x/nored0x-Nuclei-Templates](https://github.com/NoRed0x/nored0x-Nuclei-Templates)  
 - [rxerium/CISA-KEV](https://github.com/rxerium/CISA-KEV)  
