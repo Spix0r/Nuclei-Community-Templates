@@ -42,7 +42,8 @@
 - [badboycxcc/CVE-2023-24100](https://github.com/badboycxcc/CVE-2023-24100)  
 - [kh4sh3i/Webmin-CVE](https://github.com/kh4sh3i/Webmin-CVE)  
 - [kh4sh3i/CVE-2022-23131](https://github.com/kh4sh3i/CVE-2022-23131)  
-- [test502git/log4j-fuzz-head-poc](https://github.com/test502git/log4j-fuzz-head-poc)  
+- [test502git/log4j-fuzz-head-poc](https://github.com/test502git/log4j-fuzz-head-poc)
+- [nuclei-drupal-sa](https://github.com/RandomRobbieBF/nuclei-drupal-sa/)
 
 ---
 
