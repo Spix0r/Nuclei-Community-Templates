@@ -80,3 +80,4 @@
 
 ### **Nuclei-AI-Prompts**
 - [reewardius/Nuclei-AI-Prompts](https://github.com/reewardius/Nuclei-AI-Prompts)
+- [huseyinstif/Nuclei-AI-Prompts](https://github.com/huseyinstif/Nuclei-AI-Prompts)
