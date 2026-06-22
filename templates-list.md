@@ -77,3 +77,6 @@
 - [charanrayudu/Custom-Nuclei-Templates](https://github.com/CharanRayudu/Custom-Nuclei-Templates)  
 
 ---
+
+### **Nuclei-AI-Prompts**
+- [reewardius/Nuclei-AI-Prompts](https://github.com/reewardius/Nuclei-AI-Prompts)
